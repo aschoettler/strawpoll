@@ -1,5 +1,5 @@
 beautifulsoup4
-matplotlib.pyplot
+matplotlib
 operator
 re
 requests
