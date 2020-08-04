@@ -1,0 +1,5 @@
+beautifulsoup4
+matplotlib.pyplot
+operator
+re
+requests
