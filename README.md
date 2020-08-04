@@ -4,5 +4,7 @@ This is a project I made for scraping and plotting strawpoll results for simple 
 
 The code can be run at this link:
 
-### [_CODE_](https://hub.gke.mybinder.org/user/aschoettler-strawpoll-cjew4x22/notebooks/test.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aschoettler/strawpoll/master)
+
+
 
